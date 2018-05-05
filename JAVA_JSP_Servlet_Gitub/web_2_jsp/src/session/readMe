@@ -1,0 +1,5 @@
+url
+http://www.localhost:8080/web_3_jsp_all/session_shopping_car/productList.jsp
+程序作用
+购物车 
+cartList.jsp 显示所有物品 点击物品加入购物车
